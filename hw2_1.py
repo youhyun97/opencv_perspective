@@ -1,6 +1,3 @@
-# 20171049 컴퓨터학과 전유현
-# 2번 테스트1
-
 import cv2
 import numpy as np
 
